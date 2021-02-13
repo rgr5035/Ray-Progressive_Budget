@@ -16,7 +16,7 @@ This application is a useful tool for users to track their expenses. They can en
 
 ## Installation
 
-Please click the following link to view this application: 
+Please click the following link to view this application: https://aqueous-everglades-31083.herokuapp.com/
 
 ## Usage
 
